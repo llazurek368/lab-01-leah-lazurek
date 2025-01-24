@@ -226,13 +226,7 @@ This command must be ran in the Console.
 
 1.  Based on the help file, how many rows and how many columns does the `datasaurus_dozen` file have? What are the variables included in the data frame? Add your responses to your lab report.
 
-A data frame with 1846 rows and 3 variables:
-
-dataset: indicates which dataset the data are from
-
-x: x-values
-
-y: y-values
+This is a data frame with 1846 rows and 3 variables. The variable names are **dataset**, **x**, and **y**
 
 Let's take a look at what these datasets are.
 To do so we can make a *frequency table* of the dataset variable:
@@ -254,6 +248,8 @@ In the paper, the authors simulate a variety of datasets that have the same summ
 🧶 ✅ ⬆️ *Knit, commit, and push your changes to GitHub with the commit message "Added answer for Ex 1". Make sure to commit and push all changed files so that your Git pane is cleared up afterwards.*
 
 2.  Plot `y` vs. `x` for the `dino` dataset. Then, calculate the correlation coefficient between `x` and `y` for this dataset.
+
+The correlation coefficient is technically nonexistent because the plot isn't linear, but the answer would be -0.06447185	
 
 Below is the code you will need to complete this exercise.
 Basically, the answer is already given, but you need to include relevant bits in your Rmd document and successfully knit it and view the results.
