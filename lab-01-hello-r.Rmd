@@ -385,6 +385,7 @@ knitr::include_graphics("img/fig-resize-global.png")
 
 -   **Resize your figures:**
 
+
 Click on the gear icon in on top of the R Markdown document, and select "Output Options..." in the dropdown menu.
 In the pop up dialogue box go to the Figures tab and change the height and width of the figures, and hit OK when done.
 Then, knit your document and see how you like the new sizes.
@@ -412,6 +413,8 @@ Hit OK and knit your document to see how it looks.
 Play around with these until you're happy with the look.
 
 <br>
+
+Could not complete either of the last steps. There is no option to select "Output Options," There is only expand, collapse, clear, and clear all output.
 
 ```{marginfigure}
 Not sure how to use emojis on your computer? Maybe a teammate can help? Or you can ask your TA as well!
